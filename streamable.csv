@@ -1,0 +1,8 @@
+﻿Type,Product Type,Name,Price,Rating,Duration,withPrime,releaseYear,Other Data
+Streamable,Video,Psych,9.99,5,40,TRUE,2006,COMEDY
+Streamable,Video,Suits,9.99,5,43,TRUE,2011,DRAMA
+Streamable,Video,Green Book,14.99,4.5,130,FALSE,2018,DRAMA
+Streamable,Music,Hang on little tomato,1.99,5,1.45,TRUE,2006,JAZZ
+Streamable,Music,Baby Shark,0.99,4,1.45,TRUE,2018,POP
+Streamable,Music,Joshua Tree,1.69,5,1.45,FALSE,1999,ROCK
+Streamable,Music,Beautiful Day,1.99,4.75,1.55,FALSE,2007,ROCK
